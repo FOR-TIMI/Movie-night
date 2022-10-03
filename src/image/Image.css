@@ -1,0 +1,14 @@
+.Snapchat-Image{
+    /* image 1 */
+margin-top: 10px;
+width: 500px;
+height: 735.69px;
+filter: drop-shadow(0px 0px 46.8696px rgba(0, 0, 0, 0.05));
+border-radius: 35.1522px;
+display: flex;
+justify-content: flex-end;
+}
+
+.Snapchat-Image img{
+    height: 690px;
+}

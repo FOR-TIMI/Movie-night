@@ -1,0 +1,42 @@
+.Heading-wrapper{
+   /* Imagine if had events. */
+
+width: 350.91px;
+height: 192px;
+margin-bottom: 40px;
+}
+
+.Heading-text{ 
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 54px;
+    text-align: right;
+    color: #240D57;
+    margin-bottom: 15px;
+
+}
+
+
+.Snapchat-text{
+background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+
+.heading-sub-text{
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: end;
+height: 34px;
+}
+
+.heading-sub-text p{
+padding: 0px;
+gap: 16px;
+font-weight: 300;
+color: #4F4F4F;
+}
+

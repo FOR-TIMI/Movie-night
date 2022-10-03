@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(0deg, #F6F2FF, #F6F2FF), #FBFAFF;
+}
+
+.App-action{
+    display: flex;
+    flex-direction: column;
+    align-items:  flex-start;
+    width: 30%;
+    margin-right: 60px;
+}

@@ -1,0 +1,19 @@
+/* Button */
+.Button{
+width: 35%;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 10px 15px;
+text-decoration: none;
+color: #fff;
+background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+border-radius: 10px;
+
+}
+
+.Button-wrapper{
+    width: 75%;
+    display: flex;
+    justify-content: flex-end;
+}
